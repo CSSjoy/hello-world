@@ -1,2 +1,4 @@
 # hello-world
-test
+
+testing this git hub thingy out
+reading the how to file
